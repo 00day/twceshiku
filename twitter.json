@@ -1,14 +1,31 @@
 {
-    "evilx": [{
+    "verifymax": [{
             "username": "bitcoin_pig",
-            "rank": "5",
             "desc": "f23asdasd"
         },
         {
             "username": "bbbb",
-            "rank": "0",
             "desc": ""
         }
 
+    ],
+    "verify": [{
+            "username": "flashprotocol",
+            "desc": "f23asdasd"
+        },
+        {
+            "username": "jjjj",
+            "desc": ""
+        }
+    ],
+    "evilx": [{
+            "username": "wormholecrypto",
+            "desc": "f23asdasd"
+        },
+        {
+            "username": "BSquaredNetwork",
+            "desc": ""
+        }
     ]
+
 }
